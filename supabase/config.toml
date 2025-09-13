@@ -1,0 +1,7 @@
+project_id = "atufabjdkajsjkgeqsdr"
+
+[functions.process-receipt]
+verify_jwt = false
+
+[functions.ai-advisor] 
+verify_jwt = false
